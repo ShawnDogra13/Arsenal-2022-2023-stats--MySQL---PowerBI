@@ -2,6 +2,8 @@
 Data cleaning and analysis was done through MySQL -- Findings were presented through PowerBI.  
 ![ArsenalstatsPowerBIcapture](https://github.com/ShawnDogra13/Arsenal-2022-2023-stats--MySQL---PowerBI/assets/140983658/d2d2400c-b605-4c5e-ba35-66ebbd34a591)
 
+![Arsenalcapture2](https://github.com/ShawnDogra13/Arsenal-2022-2023-stats--MySQL---PowerBI/assets/140983658/2994147b-b9ef-4758-a2eb-7d1c5f7e005d)
+
 Questions
 1. What is the goal differential for the season?
 2. What is the goal distribution across the total shots taken?
