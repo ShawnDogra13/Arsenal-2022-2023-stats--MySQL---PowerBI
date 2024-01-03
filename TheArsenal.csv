@@ -1,0 +1,39 @@
+Matchweek,Day,Time,Venue,Attendance,Referee,Opponent,Result,Possession,Goals for,Goals against,Expectec goals,Shots,Shots on target,Passes,Passes completed,Short passes,Medium passes,Long passes,Corners,Tackles,Tackles won,Fouls,Penalties attempted,Penalties made
+Matchweek 1,Fri,20:00,Away,"25,286",Anthony Taylor,Crystal Palace,W,44,2,0,1.0,10,2,469,378,201,176,60,5,29,16,11,0,0
+Matchweek 2,Sat,15:00,Home,"60,033",Darren England,Leicester City,W,50,4,2,2.7,19,7,499,407,232,173,61,6,8,6,15,0,0
+Matchweek 3,Sat,17:30,Away,"10,423",Craig Pawson,Bournemouth,W,57,3,0,1.3,14,6,614,534,307,206,61,4,14,8,10,0,0
+Matchweek 4,Sat,17:30,Home,"60,164",Jarred Gillett,Fulham,W,71,2,1,2.6,22,8,637,534,252,268,91,9,15,11,6,0,0
+Matchweek 5,Wed,19:30,Home,"60,012",Robert Jones,Aston Villa,W,59,2,1,2.4,22,8,549,452,203,244,76,10,10,7,10,0,0
+Matchweek 6,Sun,16:30,Away,"73,431",Paul Tierney,Manchester Utd,L,60,1,3,1.3,16,3,508,418,206,203,68,5,14,8,9,0,0
+Matchweek 8,Sun,12:00,Away,"17,122",David Coote,Brentford,W,63,3,0,1.5,13,7,624,525,309,242,62,3,12,9,10,0,0
+Matchweek 9,Sat,12:30,Home,"60,278",Anthony Taylor,Tottenham,W,64,3,1,2.4,22,9,613,539,262,277,58,5,14,10,10,0,0
+Matchweek 10,Sun,16:30,Home,"60,059",Michael Oliver,Liverpool,W,43,3,2,2.7,10,6,417,316,152,168,76,4,16,10,11,1,1
+Matchweek 11,Sun,14:00,Away,"36,700",Chris Kavanagh,Leeds United,W,53,1,0,0.5,9,4,534,437,178,253,79,3,17,10,11,0,0
+Matchweek 13,Sun,14:00,Away,"31,145",Robert Jones,Southampton,D,59,1,1,1.0,12,3,582,494,210,289,67,4,16,9,8,0,0
+Matchweek 14,Sun,14:00,Home,"60,263",Simon Hooper,Nott'ham Forest,W,69,5,0,2.3,24,9,667,580,346,232,54,9,14,9,9,0,0
+Matchweek 15,Sun,12:00,Away,"40,142",Michael Oliver,Chelsea,W,55,1,0,2.1,14,2,494,388,200,200,70,6,17,10,13,0,0
+Matchweek 16,Sat,19:45,Away,"34,624",Stuart Attwell,Wolves,W,62,2,0,2.1,14,3,622,537,240,275,83,4,10,5,6,0,0
+Matchweek 17,Mon,20:00,Home,"60,125",Michael Oliver,West Ham,W,66,3,1,2.1,16,5,699,606,310,280,72,7,15,10,13,0,0
+Matchweek 18,Sat,17:30,Away,"31,647",Anthony Taylor,Brighton,W,32,4,2,2.9,14,7,310,225,138,90,59,4,19,9,11,0,0
+Matchweek 19,Tue,19:45,Home,"60,319",Andy Madley,Newcastle Utd,D,66,0,0,1.1,17,4,572,480,239,246,58,5,13,8,10,0,0
+Matchweek 20,Sun,16:30,Away,"61,870",Craig Pawson,Tottenham,W,49,2,0,1.8,14,5,494,408,213,205,60,3,13,8,15,0,0
+Matchweek 21,Sun,16:30,Home,"60,325",Anthony Taylor,Manchester Utd,W,57,3,2,3.1,25,5,555,437,255,203,57,12,21,14,8,0,0
+Matchweek 22,Sat,12:30,Away,"39,314",David Coote,Everton,L,70,0,1,0.9,15,2,687,584,317,247,79,5,14,11,8,0,0
+Matchweek 23,Sat,15:00,Home,"60,254",Peter Bankes,Brentford,D,69,1,1,1.6,23,7,649,537,271,288,65,7,10,6,9,0,0
+Matchweek 12,Wed,19:30,Home,"60,276",Anthony Taylor,Manchester City,L,63,1,3,1.6,9,0,569,466,207,257,78,1,13,5,11,1,1
+Matchweek 24,Sat,12:30,Away,"42,066",Simon Hooper,Aston Villa,W,67,4,2,3.2,20,5,643,530,287,239,65,9,18,10,4,0,0
+Matchweek 25,Sat,15:00,Away,"32,227",Craig Pawson,Leicester City,W,65,1,0,0.7,10,2,654,524,272,258,76,8,11,6,9,0,0
+Matchweek 7,Wed,19:45,Home,"60,213",Michael Oliver,Everton,W,73,4,0,2.6,15,5,794,681,344,326,84,5,7,7,5,0,0
+Matchweek 26,Sat,15:00,Home,"60,222",Chris Kavanagh,Bournemouth,W,79,3,2,2.1,31,9,801,675,445,246,51,17,17,10,6,0,0
+Matchweek 27,Sun,14:00,Away,"24,426",David Coote,Fulham,W,55,3,0,2.3,15,7,578,487,274,195,71,8,20,14,9,0,0
+Matchweek 28,Sun,14:00,Home,"60,247",Stuart Attwell,Crystal Palace,W,62,4,1,1.6,15,5,629,528,278,257,66,5,15,9,8,0,0
+Matchweek 29,Sat,15:00,Home,"60,283",Darren England,Leeds United,W,66,4,1,3.8,12,4,668,564,292,261,76,4,15,9,11,1,1
+Matchweek 30,Sun,16:30,Away,"53,267",Paul Tierney,Liverpool,D,41,2,2,1.4,9,5,399,301,161,137,80,4,21,11,11,0,0
+Matchweek 31,Sun,14:00,Away,"62,481",David Coote,West Ham,D,70,2,2,2.7,10,5,643,547,267,294,67,2,13,9,8,1,0
+Matchweek 32,Fri,20:00,Home,"60,175",Simon Hooper,Southampton,D,74,3,3,2.5,25,5,729,611,291,315,88,7,17,10,10,0,0
+Matchweek 33,Wed,20:00,Away,"53,482",Michael Oliver,Manchester City,L,48,1,4,0.5,8,2,481,400,194,216,60,3,10,4,13,0,0
+Matchweek 34,Tue,20:00,Home,"60,144",Robert Jones,Chelsea,W,55,3,1,1.7,16,9,577,485,239,239,61,7,12,4,10,0,0
+Matchweek 35,Sun,16:30,Away,"50,267",Chris Kavanagh,Newcastle Utd,W,45,2,0,1.3,10,6,374,291,162,151,50,4,23,18,12,0,0
+Matchweek 36,Sun,16:30,Home,"60,139",Andy Madley,Brighton,L,41,0,3,0.9,14,2,387,292,167,140,61,5,20,6,13,0,0
+Matchweek 37,Sat,17:30,Away,"29,514",Anthony Taylor,Nott'ham Forest,L,81,0,1,0.6,11,3,764,665,359,312,46,6,8,3,12,0,0
+Matchweek 38,Sun,16:30,Home,"60,095",Andre Marriner,Wolves,W,51,5,0,2.8,14,8,484,418,198,213,52,8,17,14,8,0,0
