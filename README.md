@@ -44,16 +44,17 @@ Findings
 * The correlation between total completed passes and shots generated is highly variable and does not follow a specific trend.
 
 Analysis Summary 
+  
   Although Arsenal had a successful season in terms of their win distribution and positive goal differential, the data shows Arsenal may lack 
-  efficiency. 
+  efficiency.
   Arsenal was able to create a fair amount of opportunities that led to a shot but only converted those shots into goals 15% of the time. Additionally, 
   Arsenal holds the majority of possession with an average of 59% but has a variable trend between possession & shots generated. This highlights their inconsistent 
   productivity with creating scoring opportunities when they have the ball. Furthermore, this indicates that Arsenal may be making a lot of passes side to side rather than 
   taking more risks attempting penetrating forward passes. 
   Lastly, aquiring a forward with a higher goal conversion rate that can score with less created chances can improve Arsenals efficiency. 
 
-Limitation
-. The dataset did not include statistics of the other teams. 
-. Individual player data was not included, which could have been used to further support the findings.
-. No specific data such as field location was available to further breakdown where possession & shots came from on the field. 
+Limitations
+* The dataset did not include statistics of the other teams. 
+* Individual player data was not included, which could have been used to further support the findings.
+* No specific data such as field location was available to further breakdown where possession & shots came from on the field. 
   
